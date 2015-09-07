@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/debuggin-webpack.iml" filepath="$PROJECT_DIR$/.idea/debuggin-webpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/debugging-webpack.iml" filepath="$PROJECT_DIR$/.idea/debugging-webpack.iml" />
     </modules>
   </component>
 </project>
