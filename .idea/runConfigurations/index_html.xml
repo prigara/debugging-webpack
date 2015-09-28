@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/debuggin-webpack/index.html">
+  <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/debugging-webpack/index.html">
+    <mapping url="http://localhost:63342/debugging-webpack/build" local-file="$PROJECT_DIR$/build" />
     <mapping url="webpack:///." local-file="$PROJECT_DIR$" />
-    <mapping url="http://localhost:63342/debuggin-webpack/build" local-file="$PROJECT_DIR$/build" />
     <method />
   </configuration>
 </component>
