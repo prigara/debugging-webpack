@@ -1,7 +1,26 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/debugging-webpack/index.html">
-    <mapping url="http://localhost:63342/debugging-webpack/build" local-file="$PROJECT_DIR$/build" />
     <mapping url="webpack:///." local-file="$PROJECT_DIR$" />
-    <method />
+    <mapping url="http://localhost:63342/debugging-webpack/build" local-file="$PROJECT_DIR$/build" />
+    <method>
+      <option name="NpmBeforeRunTask" enabled="true">
+        <package-json value="$PROJECT_DIR$/package.json" />
+        <command value="run" />
+        <scripts>
+          <script value="clean" />
+        </scripts>
+        <node-interpreter value="project" />
+        <envs />
+      </option>
+      <option name="NpmBeforeRunTask" enabled="true">
+        <package-json value="$PROJECT_DIR$/package.json" />
+        <command value="run" />
+        <scripts>
+          <script value="build" />
+        </scripts>
+        <node-interpreter value="project" />
+        <envs />
+      </option>
+    </method>
   </configuration>
 </component>
