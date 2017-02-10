@@ -4,6 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "build": "webpack",
+    "clean": "rm -fr ./build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
