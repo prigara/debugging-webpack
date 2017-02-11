@@ -5,20 +5,8 @@
   "main": "main.js",
   "scripts": {
     "build": "webpack",
-    "clean": "rm -fr ./build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -fr ./build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nwbt/debugging-webpack.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nwbt/debugging-webpack/issues"
-  },
-  "homepage": "https://github.com/nwbt/debugging-webpack#readme",
   "devDependencies": {
     "webpack": "^2.2.1"
   }
