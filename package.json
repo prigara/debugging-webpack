@@ -1,0 +1,13 @@
+{
+  "name": "debugging-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack",
+    "clean": "rm -fr ./build"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
